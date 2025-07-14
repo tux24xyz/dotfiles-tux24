@@ -1,0 +1,23 @@
+[General]
+Days Meta Infos=30
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+Show Url Nav Bar=true
+
+[MainWindow]
+2048x1152 screen: Window-Maximized=true
+2234x1257 screen: Window-Maximized=true
+
+[filetree]
+editShade=32,81,106
+listMode=false
+middleClickToClose=false
+shadingEnabled=true
+showCloseButton=false
+showFullPathOnRoots=false
+showToolbar=true
+sortRole=0
+viewShade=87,53,88

@@ -1,0 +1,106 @@
+    OpenRGB v0.9+ (git)
+    Commit:  from 
+    Launched: 20250625_234231
+====================================================================================================
+
+52    |Info:    [ResourceManager] Initializing HID interfaces: Success
+52    |Info:    ------------------------------------------------------
+52    |Info:    |               Start device detection               |
+52    |Info:    ------------------------------------------------------
+54    |Info:    ------------------------------------------------------
+54    |Info:    |             Detecting I2C interfaces               |
+54    |Info:    ------------------------------------------------------
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 8086:7D67 Subsystem: 1462:7E32
+54    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 8086:7D67 Subsystem: 1462:7E32
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-17 Device 10DE:2C02 Subsystem: 1458:4196
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 8086:7D67 Subsystem: 1462:7E32
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-15 Device 10DE:2C02 Subsystem: 1458:4196
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 8086:7D67 Subsystem: 1462:7E32
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-13 Device 8086:7F23 Subsystem: 1462:7E32
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 8086:7D67 Subsystem: 1462:7E32
+54    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+54    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 0000:0000 Subsystem: 0000:0000
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 8086:7D67 Subsystem: 1462:7E32
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 8086:7D67 Subsystem: 1462:7E32
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-16 Device 10DE:2C02 Subsystem: 1458:4196
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 8086:7D67 Subsystem: 1462:7E32
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-14 Device 10DE:2C02 Subsystem: 1458:4196
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 8086:7D67 Subsystem: 1462:7E32
+55    |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+55    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 0000:0000 Subsystem: 0000:0000
+55    |Info:    ------------------------------------------------------
+55    |Info:    |               Detecting I2C devices                |
+55    |Info:    ------------------------------------------------------
+462   |Info:    ------------------------------------------------------
+462   |Info:    |            Detecting I2C DIMM modules              |
+462   |Info:    ------------------------------------------------------
+498   |Info:    ------------------------------------------------------
+498   |Info:    |               Detecting I2C PCI devices            |
+498   |Info:    ------------------------------------------------------
+502   |Info:    ------------------------------------------------------
+502   |Info:    |               Detecting HID devices                |
+502   |Info:    ------------------------------------------------------
+502   |Info:    ------------------------------------------------------
+502   |Info:    |            Detecting libusb HID devices            |
+502   |Info:    ------------------------------------------------------
+502   |Info:    ------------------------------------------------------
+502   |Info:    |              Detecting other devices               |
+502   |Info:    ------------------------------------------------------
+506   |Info:    [ResourceManager] Calling Post-detection callbacks
+506   |Info:    ------------------------------------------------------
+506   |Info:    |                Detection completed                 |
+506   |Info:    ------------------------------------------------------
+1949  |Info:    [ResourceManager] Initializing HID interfaces: Success
+1949  |Warning: [ResourceManager] Detection coroutine: assigned a new coroutine when one was already scheduled - probably two rescan events sent at once
+1949  |Info:    ------------------------------------------------------
+1949  |Info:    |               Start device detection               |
+1949  |Info:    ------------------------------------------------------
+1956  |Info:    ------------------------------------------------------
+1956  |Info:    |             Detecting I2C interfaces               |
+1956  |Info:    ------------------------------------------------------
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-10 Device 0000:0000 Subsystem: 0000:0000
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-17 Device 10DE:2C02 Subsystem: 1458:4196
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-8 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-15 Device 10DE:2C02 Subsystem: 1458:4196
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-6 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-13 Device 8086:7F23 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-11 Device 0000:0000 Subsystem: 0000:0000
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-9 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-16 Device 10DE:2C02 Subsystem: 1458:4196
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-7 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-14 Device 10DE:2C02 Subsystem: 1458:4196
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 8086:7D67 Subsystem: 1462:7E32
+1956  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1956  |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-12 Device 0000:0000 Subsystem: 0000:0000
+1956  |Info:    ------------------------------------------------------
+1956  |Info:    |               Detecting I2C devices                |
+1956  |Info:    ------------------------------------------------------
+4967  |Info:    ------------------------------------------------------
+4967  |Info:    |            Detecting I2C DIMM modules              |
+4967  |Info:    ------------------------------------------------------
+6307  |Info:    ------------------------------------------------------
+6307  |Info:    |               Detecting I2C PCI devices            |
+6307  |Info:    ------------------------------------------------------
+6310  |Info:    ------------------------------------------------------
+6310  |Info:    |               Detecting HID devices                |
+6310  |Info:    ------------------------------------------------------
+6310  |Info:    ------------------------------------------------------
+6310  |Info:    |            Detecting libusb HID devices            |
+6310  |Info:    ------------------------------------------------------
+6311  |Info:    ------------------------------------------------------
+6311  |Info:    |              Detecting other devices               |
+6311  |Info:    ------------------------------------------------------
+6313  |Info:    [ResourceManager] Calling Post-detection callbacks
+6313  |Info:    ------------------------------------------------------
+6313  |Info:    |                Detection completed                 |
+6313  |Info:    ------------------------------------------------------

@@ -1,0 +1,14 @@
+[Baloo KEditCommentDialog]
+2048x1152 screen: Height=256
+2048x1152 screen: Width=276
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,6,25,19,13,37.904
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled

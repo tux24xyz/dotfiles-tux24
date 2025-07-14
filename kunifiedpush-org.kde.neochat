@@ -1,0 +1,4 @@
+[Client]
+Description=正在接收新訊息的通知
+Endpoint="https://unifiedpush.kde.org/upk0899620a401f4740ae2a5f95902169d2?up=1"
+Token={22dd7a35-cc8c-4b68-bd0a-fd5f7c1905d9}

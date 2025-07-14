@@ -1,0 +1,57 @@
+[
+    {
+        "data": [
+            {
+                "allowDdcCi": true,
+                "allowSdrSoftwareBrightness": false,
+                "autoRotation": "InTabletMode",
+                "brightness": 0.65,
+                "colorPowerTradeoff": "PreferEfficiency",
+                "colorProfileSource": "sRGB",
+                "connectorName": "HDMI-A-3",
+                "detectedDdcCi": true,
+                "edidHash": "e10ddded5c4a1885ca9967daa8625383",
+                "edidIdentifier": "AOC 9987 20670 4 2024 0",
+                "edrPolicy": "always",
+                "highDynamicRange": false,
+                "iccProfilePath": "",
+                "maxBitsPerColor": 0,
+                "mode": {
+                    "height": 1440,
+                    "refreshRate": 100000,
+                    "width": 2560
+                },
+                "overscan": 0,
+                "rgbRange": "Automatic",
+                "scale": 1.25,
+                "sdrBrightness": 417,
+                "sdrGamutWideness": 0,
+                "transform": "Normal",
+                "uuid": "84d72c0e-d9d2-419c-b4ad-865d938ec54f",
+                "vrrPolicy": "Automatic",
+                "wideColorGamut": false
+            }
+        ],
+        "name": "outputs"
+    },
+    {
+        "data": [
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 0,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0,
+                        "replicationSource": ""
+                    }
+                ]
+            }
+        ],
+        "name": "setups"
+    }
+]

@@ -1,0 +1,13 @@
+[General]
+Default Identity=1449113160
+
+[Identity #0]
+Default Domain=tux24
+Disable Fcc=false
+Identity=tux24
+Image Location=
+Inline Signature=
+Name=tux24
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=1449113160

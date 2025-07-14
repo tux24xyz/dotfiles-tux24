@@ -1,0 +1,13 @@
+[Unit]
+Description=Restore pywal colorscheme
+After=graphical-session.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/wal -R
+Environment=DISPLAY=:0
+Environment=WAYLAND_DISPLAY=wayland-0
+RemainAfterExit=yes
+
+[Install]
+WantedBy=default.target

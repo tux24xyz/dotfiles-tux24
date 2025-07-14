@@ -1,0 +1,5 @@
+[InstanceCounters]
+akonadi_knut_resource\InstanceCounter=0
+
+[Instances]
+akonadi_indexing_agent\AgentType=akonadi_indexing_agent

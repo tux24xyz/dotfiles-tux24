@@ -1,0 +1,8 @@
+[General]
+lastOpenedView=MonthView
+
+[MainDrawer]
+collectionsSectionExpanded=false
+
+[MonthView]
+weekdayLabelAlignment=Center

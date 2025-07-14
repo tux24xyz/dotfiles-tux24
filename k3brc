@@ -1,0 +1,79 @@
+[Devices]
+ASUS SDRW-08D2S-U=4234,4234
+
+[External Programs]
+cdrdao default=/usr/bin/cdrdao
+cdrdao last seen newest version=1.2.5
+cdrdao user parameters=
+cdrecord default=/usr/bin/wodim
+cdrecord last seen newest version=1.1.11
+cdrecord user parameters=
+cdrskin user parameters=
+dvd+rw-format default=/usr/bin/dvd+rw-format
+dvd+rw-format last seen newest version=7.1
+dvd+rw-format user parameters=
+eMovix user parameters=
+growisofs default=/usr/bin/growisofs
+growisofs last seen newest version=7.1
+growisofs user parameters=
+mkisofs default=/usr/bin/genisoimage
+mkisofs last seen newest version=1.1.11
+mkisofs user parameters=
+normalize user parameters=
+readcd default=/usr/bin/readom
+readcd last seen newest version=1.1.11
+readcd user parameters=
+search path[$e]=/usr/bin/,/usr/local/bin/,/usr/sbin/,/usr/local/sbin/,/sbin
+sox user parameters=
+vcdxbuild user parameters=
+vcdxminfo user parameters=
+vcdxrip user parameters=
+
+[General Options]
+Allow overburning=false
+Fifo buffer=4
+Force unsafe operations=false
+Last system check version=25.4.2
+Manual buffer size=false
+Navigator breadcrumb mode=true
+No cd eject=false
+Show Document Header=true
+Temp Dir=/home/tux24/影片
+burnfree=true
+check system config=true
+config version=25.4.2
+current theme=quant
+
+[Welcome Widget]
+welcome_actions=file_new_data,file_new_audio,tools_copy_medium
+
+[file view]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+View Style=DetailTree
+last url[$e]=$HOME/
+show bookmarks=false
+
+[last used Audio Ripping]
+blank replace string=_
+create_playlist=false
+encoder=k3boggvorbisencoder
+filename pattern=!a='%A'{%a - }%t
+filetype=ogg
+last ripping directory[$e]=file:$HOME/音樂
+never_skip=true
+paranoia_mode=0
+playlist pattern=%{albumartist} - %{albumtitle}
+read_retries=5
+relative_path_in_playlist=false
+replace blanks=false
+single_file=false
+use_index0=false
+write_cue_file=false

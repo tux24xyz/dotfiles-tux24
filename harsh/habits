@@ -1,0 +1,29 @@
+# This is your habits file.
+# It tells harsh what to track and how frequently.
+# 1 means daily, 7 means weekly, 14 every two weeks.
+# You can also track targets within a set number of days.
+# For example, Gym 3 times a week would translate to 3/7.
+# 0 is for tracking a habit. 0 frequency habits will not warn or score.
+# Examples:
+
+! dailies
+
+Got 8 hours of sleep: 1
+Drink water (2 liter): 1
+Update the blog: 1
+Push-ups x50: 1
+Cold bath: 1
+Facial skin care: 1
+No cellphone before bed: 1
+
+! weeklies
+
+Read a book: 7
+Playing RPG: 2/7
+Go out to meet friends: 7
+Swim: 4/7
+
+! monthly+
+
+! tracking
+

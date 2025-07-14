@@ -1,0 +1,11 @@
+[ElisaFileIndexer]
+RootPath[$e]=$HOME/音樂
+
+[PlayerSettings]
+UseFavoriteStyleRatings=true
+
+[UiSettings]
+ColorScheme=Nobara
+
+[Views]
+ViewStylePreferences=FileName==ListStyle
