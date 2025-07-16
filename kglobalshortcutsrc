@@ -25,7 +25,7 @@ mute=Volume Mute,Volume Mute,靜音
 
 [ksmserver]
 Halt Without Confirmation=none,,不經確認即關機
-Lock Session=Meta+L\tScreensaver,Meta+L\tScreensaver,鎖定工作階段
+Lock Session=Screensaver,Meta+L\tScreensaver,鎖定工作階段
 Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,顯示登出畫面
 Log Out Without Confirmation=none,,不經確認即登出
 LogOut=none,,登出
@@ -38,15 +38,15 @@ _k_friendly_name=工作階段管理
 Activate Window Demanding Attention=Meta+Ctrl+A,Meta+Ctrl+A,依請求注意作用視窗
 Cycle Overview=none,none,循環切換總覽及格線檢視
 Cycle Overview Opposite=none,none,循環切換格線檢視及總覽
-Decrease Opacity=none,,將作用中視窗的不透明度減少 5%
-Edit Tiles=Meta+T,Meta+T,切換方塊編輯器
+Decrease Opacity=Meta+Alt+-,,將作用中視窗的不透明度減少 5%
+Edit Tiles=none,Meta+T,切換方塊編輯器
 Expose=Ctrl+F9,Ctrl+F9,切換展示視窗（目前的桌面）
-ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),切換展示視窗（所有桌面）
+ExposeAll=Meta+G,Ctrl+F10\tLaunch (C),切換展示視窗（所有桌面）
 ExposeClass=Ctrl+F7,Ctrl+F7,切換展示視窗（視窗類別）
 ExposeClassCurrentDesktop=none,none,切換展示視窗（目前桌面上同視窗類別）
-Grid View=Meta+G,Meta+G,切換格線檢視
-Increase Opacity=none,,將作用中視窗的不透明度增加 5%
-Kill Window=Meta+Ctrl+Esc,Meta+Ctrl+Esc,砍掉程式
+Grid View=none,Meta+G,切換格線檢視
+Increase Opacity=Meta+Alt+=,,將作用中視窗的不透明度增加 5%
+Kill Window=Meta+F4,Meta+Ctrl+Esc,砍掉程式
 Move Tablet to Next Output=none,none,移動繪圖板到下一個輸出
 MoveMouseToCenter=Meta+F6,Meta+F6,將滑鼠移至中央
 MoveMouseToFocus=Meta+F5,Meta+F5,將滑鼠移至焦點
@@ -54,18 +54,18 @@ MoveZoomDown=none,none,將縮放區域移到下方
 MoveZoomLeft=none,none,將放大區域向左移動
 MoveZoomRight=none,none,將放大區域向右移動
 MoveZoomUp=none,none,將縮放區域移到上方
-Overview=Meta+W,Meta+W,切換總覽
+Overview=Meta+T,Meta+W,切換總覽
 Setup Window Shortcut=none,,設定視窗的捷徑鍵
 Show Desktop=Meta+D,Meta+D,看一下桌面
 Switch One Desktop Down=Meta+Ctrl+Down,Meta+Ctrl+Down,切換到下面的桌面
 Switch One Desktop Up=Meta+Ctrl+Up,Meta+Ctrl+Up,切換到上面的桌面
-Switch One Desktop to the Left=Meta+Ctrl+Left,Meta+Ctrl+Left,切換到左方的桌面
-Switch One Desktop to the Right=Meta+Ctrl+Right,Meta+Ctrl+Right,切換到右方的桌面
+Switch One Desktop to the Left=Meta+Alt+Left,Meta+Ctrl+Left,切換到左方的桌面
+Switch One Desktop to the Right=Meta+Alt+Right,Meta+Ctrl+Right,切換到右方的桌面
 Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,切換到下方視窗
-Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,切換到左方視窗
-Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,切換到右方視窗
+Switch Window Left=Meta+H,Meta+Alt+Left,切換到左方視窗
+Switch Window Right=,Meta+Alt+Right,切換到右方視窗
 Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,切換到上方視窗
-Switch to Desktop 1=Ctrl+F1,Ctrl+F1,切換到桌面 1
+Switch to Desktop 1=Meta+1,Ctrl+F1,切換到桌面 1
 Switch to Desktop 10=none,,切換到桌面 10
 Switch to Desktop 11=none,,切換到桌面 11
 Switch to Desktop 12=none,,切換到桌面 12
@@ -76,15 +76,15 @@ Switch to Desktop 16=none,,切換到桌面 16
 Switch to Desktop 17=none,,切換到桌面 17
 Switch to Desktop 18=none,,切換到桌面 18
 Switch to Desktop 19=none,,切換到桌面 19
-Switch to Desktop 2=Ctrl+F2,Ctrl+F2,切換到桌面 2
+Switch to Desktop 2=Meta+2,Ctrl+F2,切換到桌面 2
 Switch to Desktop 20=none,,切換到桌面 20
-Switch to Desktop 3=Ctrl+F3,Ctrl+F3,切換到桌面 3
-Switch to Desktop 4=Ctrl+F4,Ctrl+F4,切換到桌面 4
-Switch to Desktop 5=none,,切換到桌面 5
-Switch to Desktop 6=none,,切換到桌面 6
-Switch to Desktop 7=none,,切換到桌面 7
-Switch to Desktop 8=none,,切換到桌面 8
-Switch to Desktop 9=none,,切換到桌面 9
+Switch to Desktop 3=Meta+3,Ctrl+F3,切換到桌面 3
+Switch to Desktop 4=Meta+4,Ctrl+F4,切換到桌面 4
+Switch to Desktop 5=Meta+5,,切換到桌面 5
+Switch to Desktop 6=Meta+6,,切換到桌面 6
+Switch to Desktop 7=Meta+7,,切換到桌面 7
+Switch to Desktop 8=Meta+8,,切換到桌面 8
+Switch to Desktop 9=Meta+9,,切換到桌面 9
 Switch to Next Desktop=none,,切換到下一個桌面
 Switch to Next Screen=none,,切換到下一個螢幕
 Switch to Previous Desktop=none,,切換到上一個桌面
@@ -122,10 +122,10 @@ Window Fullscreen=none,,全螢幕
 Window Grow Horizontal=none,,水平展開視窗
 Window Grow Vertical=none,,垂直展開視窗
 Window Lower=none,,降下視窗
-Window Maximize=Meta+PgUp,Meta+PgUp,最大化視窗
+Window Maximize=Meta+F,Meta+PgUp,最大化視窗
 Window Maximize Horizontal=none,,水平最大化視窗
 Window Maximize Vertical=none,,垂直最大化視窗
-Window Minimize=Meta+PgDown,Meta+PgDown,最小化視窗
+Window Minimize=none,Meta+PgDown,最小化視窗
 Window Move=none,,移動視窗
 Window Move Center=none,,將視窗移至中央
 Window No Border=none,,切換視窗標題列及框架
@@ -156,7 +156,7 @@ Window Resize=none,,重新調整視窗大小
 Window Shade=none,,收起視窗
 Window Shrink Horizontal=none,,水平收縮視窗
 Window Shrink Vertical=none,,垂直收縮視窗
-Window to Desktop 1=none,,視窗移至桌面 1
+Window to Desktop 1=Meta+!,,視窗移至桌面 1
 Window to Desktop 10=none,,視窗移至桌面 10
 Window to Desktop 11=none,,視窗移至桌面 11
 Window to Desktop 12=none,,視窗移至桌面 12
@@ -167,19 +167,19 @@ Window to Desktop 16=none,,視窗移至桌面 16
 Window to Desktop 17=none,,視窗移至桌面 17
 Window to Desktop 18=none,,視窗移至桌面 18
 Window to Desktop 19=none,,視窗移至桌面 19
-Window to Desktop 2=none,,視窗移至桌面 2
+Window to Desktop 2=Meta+@,,視窗移至桌面 2
 Window to Desktop 20=none,,視窗移至桌面 20
-Window to Desktop 3=none,,視窗移至桌面 3
-Window to Desktop 4=none,,視窗移至桌面 4
-Window to Desktop 5=none,,視窗移至桌面 5
-Window to Desktop 6=none,,視窗移至桌面 6
-Window to Desktop 7=none,,視窗移至桌面 7
-Window to Desktop 8=none,,視窗移至桌面 8
-Window to Desktop 9=none,,視窗移至桌面 9
+Window to Desktop 3=Meta+#,,視窗移至桌面 3
+Window to Desktop 4=Meta+$,,視窗移至桌面 4
+Window to Desktop 5=Meta+%,,視窗移至桌面 5
+Window to Desktop 6=Meta+^,,視窗移至桌面 6
+Window to Desktop 7=Meta+&,,視窗移至桌面 7
+Window to Desktop 8=Meta+*,,視窗移至桌面 8
+Window to Desktop 9=Meta+(,,視窗移至桌面 9
 Window to Next Desktop=none,,視窗移到下一個桌面
-Window to Next Screen=Meta+Shift+Right,Meta+Shift+Right,將視窗移至下一個螢幕
+Window to Next Screen=none,Meta+Shift+Right,將視窗移至下一個螢幕
 Window to Previous Desktop=none,,視窗移到上一個桌面
-Window to Previous Screen=Meta+Shift+Left,Meta+Shift+Left,將視窗移至上一個螢幕
+Window to Previous Screen=none,Meta+Shift+Left,將視窗移至上一個螢幕
 Window to Screen 0=none,,將視窗移至螢幕 0
 Window to Screen 1=none,,將視窗移至螢幕 1
 Window to Screen 2=none,,將視窗移至螢幕 2
@@ -219,21 +219,21 @@ Sleep=Sleep,Sleep,暫停
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,切換鍵盤背光
 Turn Off Screen=none,none,關閉螢幕
 _k_friendly_name=電源管理
-powerProfile=Battery\tMeta+B,Battery\tMeta+B,切換電源管理設定檔
+powerProfile=Battery\t,Battery\tMeta+B,切換電源管理設定檔
 
 [plasmashell]
 _k_friendly_name=plasmashell
 activate application launcher=Meta\tAlt+F1,Meta\tAlt+F1,開啟應用程式啟動器
-activate task manager entry 1=Meta+1,Meta+1,啟用工作管理員項目 1
+activate task manager entry 1=none,Meta+1,啟用工作管理員項目 1
 activate task manager entry 10=none,,啟用工作管理員項目 10
-activate task manager entry 2=Meta+2,Meta+2,啟用工作管理員項目 2
-activate task manager entry 3=Meta+3,Meta+3,啟用工作管理員項目 3
-activate task manager entry 4=Meta+4,Meta+4,啟用工作管理員項目 4
-activate task manager entry 5=Meta+5,Meta+5,啟用工作管理員項目 5
-activate task manager entry 6=Meta+6,Meta+6,啟用工作管理員項目 6
-activate task manager entry 7=Meta+7,Meta+7,啟用工作管理員項目 7
-activate task manager entry 8=Meta+8,Meta+8,啟用工作管理員項目 8
-activate task manager entry 9=Meta+9,Meta+9,啟用工作管理員項目 9
+activate task manager entry 2=none,Meta+2,啟用工作管理員項目 2
+activate task manager entry 3=none,Meta+3,啟用工作管理員項目 3
+activate task manager entry 4=none,Meta+4,啟用工作管理員項目 4
+activate task manager entry 5=none,Meta+5,啟用工作管理員項目 5
+activate task manager entry 6=none,Meta+6,啟用工作管理員項目 6
+activate task manager entry 7=none,Meta+7,啟用工作管理員項目 7
+activate task manager entry 8=none,Meta+8,啟用工作管理員項目 8
+activate task manager entry 9=none,Meta+9,啟用工作管理員項目 9
 activate widget 3=none,none,啟動 應用程式啟動器 元件
 clear-history=none,,清除剪貼簿歷史紀錄(L)
 clipboard_action=Meta+Ctrl+X,Meta+Ctrl+X,自動動作彈出選單
@@ -253,8 +253,25 @@ switch to next activity=none,,切至下個活動
 switch to previous activity=none,,切至上個活動
 toggle do not disturb=none,,切換請勿打擾
 
+[services][btop.desktop]
+_launch=Meta+B
+
+[services][com.github.taiko2k.tauonmb.desktop]
+Next=Meta+]
+Previous=Meta+[
+_launch=Meta+M
+
 [services][it.mijorus.smile.desktop]
 _launch=Meta+.
 
+[services][nobara.package.manager.desktop]
+_launch=Meta+I
+
+[services][org.kde.konsole.desktop]
+_launch=Meta+Return
+
 [services][org.kde.plasma.emojier.desktop]
 _launch=Meta+Ctrl+Alt+Shift+Space
+
+[services][org.mozilla.firefox.desktop]
+_launch=Meta+W

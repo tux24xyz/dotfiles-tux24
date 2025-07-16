@@ -6,20 +6,26 @@ UrlNavigatorIsEditable=true
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/下載/IMG_2088.jpg
-File2[$e]=$HOME/音樂/Fighting Demons/bcc30c6a-85fb-4376-b300-1dbd93c9eba5.jpg
-File3[$e]=$HOME/圖片/1200e2e008dbcdf041be5fd0a68640caaad338d3.jpg
-File4[$e]=$HOME/音樂/Currents/08aa7a6c-3e43-4459-87b2-e47faf3a088a.jpg
-File5[$e]=$HOME/圖片/hookah_haze-anniversary.png
-File6[$e]=$HOME/.local/share/flatpak/app/org.azahar_emu.Azahar/x86_64/stable/f2c69d91576663a57e3a7af341cb95e51b429c2dc17a8d180f4231bac48b967a/files/share/icons/hicolor/512x512/apps/org.azahar_emu.Azahar.png
-File7[$e]=$HOME/圖片/snapshot.jpg
-Name1[$e]=IMG_2088.jpg
-Name2[$e]=bcc30c6a-85fb-4376-b300-1dbd93c9eba5.jpg
-Name3[$e]=1200e2e008dbcdf041be5fd0a68640caaad338d3.jpg
-Name4[$e]=08aa7a6c-3e43-4459-87b2-e47faf3a088a.jpg
-Name5[$e]=hookah_haze-anniversary.png
-Name6[$e]=org.azahar_emu.Azahar.png
-Name7[$e]=snapshot.jpg
+File1[$e]=$HOME/音樂/Currents/08aa7a6c-3e43-4459-87b2-e47faf3a088a.jpg
+File10[$e]=/run/media/tux24/SP PHD U3/D Backup/正版公用/正版公用音樂/ooo.jpg
+File2[$e]=$HOME/.local/share/flatpak/app/org.azahar_emu.Azahar/x86_64/stable/f2c69d91576663a57e3a7af341cb95e51b429c2dc17a8d180f4231bac48b967a/files/share/icons/hicolor/512x512/apps/org.azahar_emu.Azahar.png
+File3[$e]=$HOME/圖片/hookah_haze-anniversary.png
+File4[$e]=$HOME/圖片/snapshot.jpg
+File5[$e]=$HOME/圖片/enlightenment-been-a-little-while-since-ive-posted-my-setup.webp
+File6[$e]=$HOME/.local/share/Steam/userdata/1279853204/760/remote/1604000/screenshots/20250708134235_1.jpg
+File7[$e]=$HOME/tux24xyz/content/articles/mediterranean-sea/images/IMG_1851_resized.jpg
+File8[$e]=$HOME/.local/share/Steam/userdata/1279853204/760/remote/1604000/screenshots/20250708133917_1.jpg
+File9[$e]=$HOME/.local/share/Steam/userdata/1279853204/760/remote/646570/screenshots/20250629224517_1.jpg
+Name1[$e]=08aa7a6c-3e43-4459-87b2-e47faf3a088a.jpg
+Name10[$e]=ooo.jpg
+Name2[$e]=org.azahar_emu.Azahar.png
+Name3[$e]=hookah_haze-anniversary.png
+Name4[$e]=snapshot.jpg
+Name5[$e]=enlightenment-been-a-little-while-since-ive-posted-my-setup.webp
+Name6[$e]=20250708134235_1.jpg
+Name7[$e]=IMG_1851_resized.jpg
+Name8[$e]=20250708133917_1.jpg
+Name9[$e]=20250629224517_1.jpg
 
 [SideBar]
 InformationSplitterSizes=209,246

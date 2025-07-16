@@ -5,3 +5,4 @@ audio/mpeg=com.github.taiko2k.tauonmb.desktop;org.kde.elisa.desktop;
 application/x-rpm=/usr/share/applications/nobara-rpm-installer.desktop
 application/x-src+rpm=/usr/share/applications/org.kde.ark.desktop
 audio/mpeg=com.github.taiko2k.tauonmb.desktop;
+x-scheme-handler/discord-719647875465871400=discord-719647875465871400.desktop

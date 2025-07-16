@@ -1,0 +1,47 @@
+{
+   "checksum": "345c4a3c9c5bb0f557ae6d2021d0b87f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13396970854927708",
+            "date_last_used": "0",
+            "guid": "60804050-484e-4e6f-bd96-571dbd970c39",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "tux24 的個人網站",
+            "type": "url",
+            "url": "https://tux24.xyz/"
+         } ],
+         "date_added": "13396970844815305",
+         "date_last_used": "0",
+         "date_modified": "13396970854927708",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "書籤列",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13396970844815305",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "其他書籤",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13396970844815305",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "行動版書籤",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

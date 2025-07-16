@@ -1,0 +1,36 @@
+無法載入「Export to PDF via Scribus」擴充功能，因為 未符合某個相依性。
+相依性:
+	類型: executable
+	位置: 路徑
+	字串: scribus
+
+無法載入「Formula (pdflatex)」擴充功能，因為 未符合某個相依性。
+相依性:
+	類型: executable
+	位置: 路徑
+	字串: pdflatex
+
+無法載入「Optimized PNG」擴充功能，因為 未符合某個相依性。
+相依性:
+	類型: executable
+	位置: 路徑
+	字串: optipng
+
+無法載入「Formula (typst)」擴充功能，因為 未符合某個相依性。
+相依性:
+	類型: executable
+	位置: 路徑
+	字串: typst
+
+無法載入「GIMP XCF」擴充功能，因為 未符合某個相依性。
+相依性:
+	類型: executable
+	位置: 路徑
+	字串: gimp
+
+無法載入「XFIG Input」擴充功能，因為 未符合某個相依性。
+相依性:
+	類型: executable
+	位置: 路徑
+	字串: fig2dev
+

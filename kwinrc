@@ -1,13 +1,39 @@
+[Activities][LastVirtualDesktop]
+39774142-a454-43cb-ba1b-25d1e556668b=5f2c1952-366d-45e4-9b74-54e51e40d1d6
+
 [Desktops]
 Id_1=9a975125-3d0d-4021-9922-4fe890f4b200
-Number=1
+Id_2=e421d42e-d236-46c2-a0dd-69fa3b16022d
+Id_3=859411f4-c7ab-4813-aeb6-d31f306fae35
+Id_4=00cb8f67-d33a-4969-a9f6-bbece1147f85
+Id_5=be269ba3-b2e0-43a6-883f-3e95626f139a
+Id_6=b78aaf86-4426-482b-b218-704b5c90aee2
+Id_7=5f2c1952-366d-45e4-9b74-54e51e40d1d6
+Id_8=11703364-69a0-4498-b9e4-678544432be6
+Id_9=aca04a34-cc0d-4d35-baeb-4684bd5f5bc4
+Number=9
 Rows=1
 
 [Plugins]
+contrastEnabled=true
+fadedesktopEnabled=true
 fadingpopupsEnabled=false
+slideEnabled=false
 
 [Tiling]
 padding=4
+
+[Tiling][00cb8f67-d33a-4969-a9f6-bbece1147f85][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][11703364-69a0-4498-b9e4-678544432be6][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][5f2c1952-366d-45e4-9b74-54e51e40d1d6][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][859411f4-c7ab-4813-aeb6-d31f306fae35][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][92e842d7-5928-5c43-884a-4912e7cc82ed]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
@@ -15,10 +41,22 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][9a975125-3d0d-4021-9922-4fe890f4b200][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][aca04a34-cc0d-4d35-baeb-4684bd5f5bc4][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][b78aaf86-4426-482b-b218-704b5c90aee2][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][be269ba3-b2e0-43a6-883f-3e95626f139a][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][ce1c0714-0a2a-5fb8-94af-60e746871196]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][e3351fef-9d90-5a02-9c16-77942ed302de]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][e421d42e-d236-46c2-a0dd-69fa3b16022d][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Wayland]
