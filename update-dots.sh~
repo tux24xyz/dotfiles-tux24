@@ -64,7 +64,7 @@ fi
 
 # 2. 推送到 GitHub
 log_info "推送到 GitHub..."
-if git push origin master; then
+if git push origin main; then
     log_success "推送到 GitHub 成功"
 else
     log_error "推送到 GitHub 失敗"
