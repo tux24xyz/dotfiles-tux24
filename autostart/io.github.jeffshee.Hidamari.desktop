@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=io.github.jeffshee.Hidamari
+X-XDP-Autostart=io.github.jeffshee.Hidamari
+Exec=flatpak run --command=hidamari io.github.jeffshee.Hidamari -b
+X-Flatpak=io.github.jeffshee.Hidamari

@@ -63,7 +63,7 @@ Switch One Desktop to the Left=Meta+Alt+Left,Meta+Ctrl+Left,切換到左方的�
 Switch One Desktop to the Right=Meta+Alt+Right,Meta+Ctrl+Right,切換到右方的桌面
 Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,切換到下方視窗
 Switch Window Left=Meta+H,Meta+Alt+Left,切換到左方視窗
-Switch Window Right=,Meta+Alt+Right,切換到右方視窗
+Switch Window Right=none,Meta+Alt+Right,切換到右方視窗
 Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,切換到上方視窗
 Switch to Desktop 1=Meta+1,Ctrl+F1,切換到桌面 1
 Switch to Desktop 10=none,,切換到桌面 10
@@ -219,7 +219,7 @@ Sleep=Sleep,Sleep,暫停
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,切換鍵盤背光
 Turn Off Screen=none,none,關閉螢幕
 _k_friendly_name=電源管理
-powerProfile=Battery\t,Battery\tMeta+B,切換電源管理設定檔
+powerProfile=Battery,Battery\tMeta+B,切換電源管理設定檔
 
 [plasmashell]
 _k_friendly_name=plasmashell
