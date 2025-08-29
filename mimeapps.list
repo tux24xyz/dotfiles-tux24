@@ -1,5 +1,6 @@
 [Added Associations]
 audio/mpeg=com.github.taiko2k.tauonmb.desktop;org.kde.elisa.desktop;
+application/rss+xml=org.mozilla.firefox.desktop;
 
 [Default Applications]
 application/x-rpm=/usr/share/applications/nobara-rpm-installer.desktop

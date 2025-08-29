@@ -1,5 +1,5 @@
 [Activities][LastVirtualDesktop]
-39774142-a454-43cb-ba1b-25d1e556668b=5f2c1952-366d-45e4-9b74-54e51e40d1d6
+39774142-a454-43cb-ba1b-25d1e556668b=00cb8f67-d33a-4969-a9f6-bbece1147f85
 
 [Desktops]
 Id_1=9a975125-3d0d-4021-9922-4fe890f4b200
@@ -13,6 +13,14 @@ Id_8=11703364-69a0-4498-b9e4-678544432be6
 Id_9=aca04a34-cc0d-4d35-baeb-4684bd5f5bc4
 Number=9
 Rows=1
+
+[MouseBindings]
+CommandAllWheel=Change Opacity
+
+[NightColor]
+Active=true
+LatitudeAuto=25.05
+LongitudeAuto=121.53
 
 [Plugins]
 contrastEnabled=true
@@ -58,9 +66,6 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 
 [Tiling][e421d42e-d236-46c2-a0dd-69fa3b16022d][84d72c0e-d9d2-419c-b4ad-865d938ec54f]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
-
-[Wayland]
-InputMethod[$e]=/usr/share/applications/org.fcitx.Fcitx5.desktop
 
 [Xwayland]
 Scale=1.25

@@ -1,2 +1,6 @@
+[Main View]
+ShowLeftPanel=false
+
 [PageView]
-ViewMode=FacingFirstCentered
+MouseMode=TextSelect
+ViewMode=Facing

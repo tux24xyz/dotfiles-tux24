@@ -1,3 +1,7 @@
+[AC][Display]
+DimDisplayIdleTimeoutSec=600
+TurnOffDisplayIdleTimeoutSec=900
+
 [AC][SuspendAndShutdown]
 AutoSuspendAction=0
 SleepMode=2

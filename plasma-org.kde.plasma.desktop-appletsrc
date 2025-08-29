@@ -25,8 +25,8 @@ positions={"2048x1152":["1","18"],"2226x1252":[]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/tux24/.local/share/Steam/userdata/1279853204/760/remote/1604000/screenshots/20250708134025_1.jpg
-PreviewImage=/home/tux24/.local/share/Steam/userdata/1279853204/760/remote/1604000/screenshots/20250708134401_1.jpg
+FillMode=1
+Image=/home/tux24/pictures/motto.webp
 SlidePaths=/usr/share/wallpapers/
 
 [Containments][2]
@@ -43,11 +43,12 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][22][Configuration]
-PreloadWeight=70
-popupHeight=459
-popupWidth=572
+PreloadWeight=100
+popupHeight=483
+popupWidth=604
 
 [Containments][2][Applets][22][Configuration][Appearance]
+dateDisplayFormat=BesideTime
 fontWeight=400
 
 [Containments][2][Applets][22][Configuration][ConfigDialog]
@@ -60,8 +61,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][36][Configuration]
 PreloadWeight=100
-popupHeight=558
-popupWidth=669
+popupHeight=672
+popupWidth=827
 
 [Containments][2][Applets][36][Configuration][ConfigDialog]
 DialogHeight=540
@@ -81,7 +82,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][2][Applets][5][Configuration][General]
-launchers=applications:org.kde.konsole.desktop,applications:nobara-updater.desktop,applications:nobara.package.manager.desktop,applications:systemsettings.desktop,file:///home/tux24/.local/share/flatpak/exports/share/applications/com.zettlr.Zettlr.desktop,applications:steam.desktop,preferred://filemanager,preferred://browser
+launchers=applications:org.kde.konsole.desktop,applications:nobara-updater.desktop,applications:nobara.package.manager.desktop,applications:systemsettings.desktop,applications:org.kde.ghostwriter.desktop,applications:steam.desktop,preferred://filemanager,preferred://browser
 
 [Containments][2][Applets][8]
 activityId=
@@ -90,8 +91,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.systemtray
-popupHeight=486
-popupWidth=504
+popupHeight=606
+popupWidth=664
 wallpaperplugin=org.kde.image
 
 [Containments][2][Applets][8][Applets][10]
@@ -102,12 +103,15 @@ plugin=org.kde.plasma.printmanager
 immutability=1
 plugin=org.kde.plasma.manage-inputmethod
 
+[Containments][2][Applets][8][Applets][11][Configuration]
+PreloadWeight=55
+
 [Containments][2][Applets][8][Applets][12]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][2][Applets][8][Applets][12][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 
 [Containments][2][Applets][8][Applets][13]
 immutability=1
@@ -121,7 +125,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][2][Applets][8][Applets][14][Configuration]
-PreloadWeight=65
+PreloadWeight=95
 
 [Containments][2][Applets][8][Applets][15]
 immutability=1
@@ -165,7 +169,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][2][Applets][8][Applets][24][Configuration]
-PreloadWeight=94
+PreloadWeight=97
 
 [Containments][2][Applets][8][Applets][25]
 immutability=1
@@ -193,7 +197,7 @@ immutability=1
 plugin=optimus-gpu-switcher
 
 [Containments][2][Applets][8][Applets][28][Configuration]
-PreloadWeight=67
+PreloadWeight=72
 
 [Containments][2][Applets][8][Applets][28][Configuration][ConfigDialog]
 DialogHeight=540
@@ -208,7 +212,7 @@ immutability=1
 plugin=org.kde.merkuro.contact.applet
 
 [Containments][2][Applets][8][Applets][29][Configuration]
-PreloadWeight=5
+PreloadWeight=10
 
 [Containments][2][Applets][8][Applets][29][Configuration][ConfigDialog]
 DialogHeight=540

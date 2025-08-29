@@ -6,5 +6,23 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/下載/16P8.epub
-Name1[$e]=16P8.epub
+File1[$e]=$HOME/downloads/document-1.pdf
+File10[$e]=$HOME/documents/ebook/布魯特斯的心臟.epub
+File2[$e]=$HOME/downloads/1433.epub
+File3[$e]=$HOME/documents/ebook/435.epub
+File4[$e]=$HOME/documents/ebook/436.epub
+File5[$e]=$HOME/documents/ebook/401.epub
+File6[$e]=$HOME/documents/ebook/16P8.epub
+File7[$e]=$HOME/documents/ebook/244.epub
+File8[$e]=$HOME/documents/ebook/480.epub
+File9[$e]=$HOME/documents/ebook/1433.epub
+Name1[$e]=document-1.pdf
+Name10[$e]=布魯特斯的心臟.epub
+Name2[$e]=1433.epub
+Name3[$e]=435.epub
+Name4[$e]=436.epub
+Name5[$e]=401.epub
+Name6[$e]=16P8.epub
+Name7[$e]=244.epub
+Name8[$e]=480.epub
+Name9[$e]=1433.epub

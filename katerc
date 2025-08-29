@@ -8,6 +8,8 @@ Show Tab Bar=true
 Show Url Nav Bar=true
 
 [MainWindow]
+2048x1152 screen: Height=1086
+2048x1152 screen: Width=882
 2048x1152 screen: Window-Maximized=true
 2234x1257 screen: Window-Maximized=true
 

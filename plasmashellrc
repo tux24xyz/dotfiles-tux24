@@ -1,5 +1,6 @@
 [PlasmaViews][Panel 2]
 floating=1
+panelOpacity=0
 
 [PlasmaViews][Panel 2][Defaults]
 thickness=38

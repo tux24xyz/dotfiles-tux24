@@ -1,4 +1,10 @@
+[Annotations]
+annotationToolType=2
+rectangleFillColor=255,255,255,0
+rectangleStrokeColor=255,255,255
+
 [ImageSave]
+lastImageSaveLocation=file:///home/tux24/pictures/螢幕截圖/螢幕截圖_20250826_171015.png
 translatedScreenshotsFolder=螢幕截圖
 
 [VideoSave]

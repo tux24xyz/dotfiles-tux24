@@ -7,8 +7,8 @@ EnumerateForwardKeys=
 EnumerateBackwardKeys=
 # 枚舉時略過第一個輸入法
 EnumerateSkipFirst=False
-# Time limit in milliseconds for triggering modifier key shortcuts
-ModifierOnlyKeyTimeout=250
+# 觸發修飾鍵快捷鍵的時限（毫秒）
+ModifierOnlyKeyTimeout=249
 
 [Hotkey/TriggerKeys]
 0=Shift+Shift_L
