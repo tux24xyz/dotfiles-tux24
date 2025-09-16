@@ -10,26 +10,26 @@ UrlNavigatorIsEditable=true
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.04.psd
-File10[$e]=$HOME/pictures/ORIGINAL GRAPHICS/ICE_CREAM.jpg
-File2[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.03.psd
-File3[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.02.psd
-File4[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.06.psd
-File5[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/SUNDAY.jpg
-File6[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.07.psd
-File7[$e]=$HOME/pictures/ORIGINAL GRAPHICS/GRAPHICS.01.psd
-File8[$e]=$HOME/pictures/ORIGINAL GRAPHICS/GRAPHICS.00.psd
-File9[$e]=$HOME/pictures/ORIGINAL GRAPHICS/PEONY.jpg
-Name1[$e]=GRAPHICS.04.psd
-Name10[$e]=ICE_CREAM.jpg
-Name2[$e]=GRAPHICS.03.psd
-Name3[$e]=GRAPHICS.02.psd
-Name4[$e]=GRAPHICS.06.psd
-Name5[$e]=SUNDAY.jpg
-Name6[$e]=GRAPHICS.07.psd
-Name7[$e]=GRAPHICS.01.psd
-Name8[$e]=GRAPHICS.00.psd
-Name9[$e]=PEONY.jpg
+File1[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.06-1.jpg
+File10[$e]=$HOME/pictures/coder-shortcodes.png
+File2[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.04-5.jpg
+File3[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.04-3.jpg
+File4[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.04-4.jpg
+File5[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.04-2.jpg
+File6[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.04-0.jpg
+File7[$e]=/home/sec/game/steamapps/common/REFLEXIA Prototype ver/ORIGINAL GRAPHICS/GRAPHICS.07.psd
+File8[$e]=$HOME/downloads/JuiceWRLD 9 9 9 EP · 2017/cover.jpeg
+File9[$e]=$HOME/downloads/JuiceWRLD 9 9 9 EP · 2017/5892ca63-5f82-401a-ae14-5cf458003190.jpg
+Name1[$e]=GRAPHICS.06-1.jpg
+Name10[$e]=coder-shortcodes.png
+Name2[$e]=GRAPHICS.04-5.jpg
+Name3[$e]=GRAPHICS.04-3.jpg
+Name4[$e]=GRAPHICS.04-4.jpg
+Name5[$e]=GRAPHICS.04-2.jpg
+Name6[$e]=GRAPHICS.04-0.jpg
+Name7[$e]=GRAPHICS.07.psd
+Name8[$e]=cover.jpeg
+Name9[$e]=5892ca63-5f82-401a-ae14-5cf458003190.jpg
 
 [SideBar]
 InformationSplitterSizes=218,257
