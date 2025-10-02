@@ -1,2 +1,5 @@
 [Keyboard]
 NumLock=0
+
+[Libinput][1133][49305][Logitech G502 X]
+PointerAcceleration=-0.300

@@ -44,8 +44,8 @@ plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][22][Configuration]
 PreloadWeight=100
-popupHeight=492
-popupWidth=616
+popupHeight=504
+popupWidth=632
 
 [Containments][2][Applets][22][Configuration][Appearance]
 dateDisplayFormat=BesideTime
@@ -61,8 +61,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][36][Configuration]
 PreloadWeight=100
-popupHeight=714
-popupWidth=883
+popupHeight=753
+popupWidth=935
 
 [Containments][2][Applets][36][Configuration][ConfigDialog]
 DialogHeight=540
@@ -91,8 +91,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.systemtray
-popupHeight=651
-popupWidth=724
+popupHeight=687
+popupWidth=772
 wallpaperplugin=org.kde.image
 
 [Containments][2][Applets][8][Applets][10]
@@ -125,7 +125,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][2][Applets][8][Applets][14][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 
 [Containments][2][Applets][8][Applets][15]
 immutability=1
@@ -162,7 +162,6 @@ plugin=org.kde.plasma.volume
 PreloadWeight=100
 
 [Containments][2][Applets][8][Applets][21][Configuration][General]
-currentTab=streams
 migrated=true
 
 [Containments][2][Applets][8][Applets][24]
@@ -170,7 +169,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][2][Applets][8][Applets][24][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][2][Applets][8][Applets][25]
 immutability=1
@@ -224,7 +223,7 @@ immutability=1
 plugin=org.kde.plasma.weather
 
 [Containments][2][Applets][8][Applets][30][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][2][Applets][8][Applets][31]
 immutability=1
