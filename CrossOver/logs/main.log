@@ -1,0 +1,338 @@
+[2025-10-30 18:14:43.540] [info]  CrossOver 3.3.4 
+[2025-10-30 18:14:43.541] [info]  Setting: Enable GPU
+[2025-10-30 18:14:43.541] [info]  Setting: Sharing GPU process and browser
+[2025-10-30 18:14:44.068] [info]  App ready
+[2025-10-30 18:14:44.069] [info]  Init undefined
+[2025-10-30 18:14:44.169] [info]  Event: Ready to show
+[2025-10-30 18:14:44.171] [info]  Sync options
+[2025-10-30 18:14:44.171] [info]  Theme changed: light
+[2025-10-30 18:14:44.172] [info]  Save crosshair: ../static/crosshairs/Actual/leupold-dot.png
+[2025-10-30 18:14:44.301] [info]  Setting: Automatic Updates
+[2025-10-30 18:14:44.575] [info]  Locked: false
+[2025-10-30 18:14:47.110] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:15:02.567] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Animated/6-Color-Small.gif
+[2025-10-30 18:15:06.506] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:15:18.846] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:15:20.650] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:15:22.867] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:15:23.857] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:15:49.097] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Kenney/crosshair001.png
+[2025-10-30 18:15:50.435] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:15:56.607] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:16:04.798] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:05.492] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:16:10.204] [info]  Sync options
+[2025-10-30 18:16:10.204] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:11.425] [info]  Sync options
+[2025-10-30 18:16:11.425] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:12.624] [info]  Sync options
+[2025-10-30 18:16:12.624] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:19.444] [info]  Sync options
+[2025-10-30 18:16:19.444] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:28.437] [info]  Sync options
+[2025-10-30 18:16:28.437] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:29.884] [info]  Sync options
+[2025-10-30 18:16:29.884] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:16:30.298] [info]  Sync options
+[2025-10-30 18:16:30.298] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:17:05.679] [info]  Sync options
+[2025-10-30 18:17:05.679] [info]  Theme changed: dark
+[2025-10-30 18:17:05.680] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:17:19.234] [warn]  TypeError: Object has been destroyed
+    at Object.hideSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/windows.js:335:62)
+    at Object.openChooserWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:461:10)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:71:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:17:20.637] [info]  Save position: 905, 493
+[2025-10-30 18:17:24.957] [info]  Locked: true
+[2025-10-30 18:17:24.957] [warn]  TypeError: Object has been destroyed
+    at Object.hideSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/windows.js:335:62)
+    at lockWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:209:10)
+    at Object.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:25)
+    at Object.each (/opt/CrossOver/resources/app.asar/src/main/windows.js:54:5)
+    at Object.toggleWindowLock (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:10)
+    at Function.fn (/opt/CrossOver/resources/app.asar/src/main/crossover.js:48:15)
+[2025-10-30 18:17:25.588] [info]  Locked: true
+[2025-10-30 18:17:25.589] [warn]  TypeError: Object has been destroyed
+    at Object.hideSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/windows.js:335:62)
+    at lockWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:209:10)
+    at Object.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:25)
+    at Object.each (/opt/CrossOver/resources/app.asar/src/main/windows.js:54:5)
+    at Object.toggleWindowLock (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:10)
+    at Function.fn (/opt/CrossOver/resources/app.asar/src/main/crossover.js:48:15)
+[2025-10-30 18:17:27.997] [info]  Locked: true
+[2025-10-30 18:17:27.998] [warn]  TypeError: Object has been destroyed
+    at Object.hideSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/windows.js:335:62)
+    at lockWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:209:10)
+    at Object.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:25)
+    at Object.each (/opt/CrossOver/resources/app.asar/src/main/windows.js:54:5)
+    at Object.toggleWindowLock (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:10)
+    at Function.fn (/opt/CrossOver/resources/app.asar/src/main/crossover.js:48:15)
+[2025-10-30 18:17:28.981] [info]  Save position: 1146, 564
+[2025-10-30 18:17:30.297] [info]  Locked: true
+[2025-10-30 18:17:30.297] [warn]  TypeError: Object has been destroyed
+    at Object.hideSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/windows.js:335:62)
+    at lockWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:209:10)
+    at Object.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:25)
+    at Object.each (/opt/CrossOver/resources/app.asar/src/main/windows.js:54:5)
+    at Object.toggleWindowLock (/opt/CrossOver/resources/app.asar/src/main/crossover.js:577:10)
+    at Function.fn (/opt/CrossOver/resources/app.asar/src/main/crossover.js:48:15)
+[2025-10-30 18:17:31.586] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:17:39.757] [info]  Save position: 918, 509
+[2025-10-30 18:17:51.932] [info]  CrossOver 3.3.4 
+[2025-10-30 18:17:51.933] [info]  Setting: Enable GPU
+[2025-10-30 18:17:51.934] [info]  Setting: Sharing GPU process and browser
+[2025-10-30 18:17:52.464] [info]  App ready
+[2025-10-30 18:17:52.464] [info]  Init undefined
+[2025-10-30 18:17:52.574] [info]  Event: Ready to show
+[2025-10-30 18:17:52.576] [info]  Sync options
+[2025-10-30 18:17:52.576] [info]  Theme changed: dark
+[2025-10-30 18:17:52.577] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:17:52.706] [info]  Setting: Automatic Updates
+[2025-10-30 18:17:52.780] [info]  Save position: 918, 509
+[2025-10-30 18:17:52.981] [info]  Locked: false
+[2025-10-30 18:17:54.015] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:18:00.596] [info]  Sync options
+[2025-10-30 18:18:00.596] [info]  Changing to new app size: normal
+[2025-10-30 18:18:00.597] [info]  Setting scale: 1
+[2025-10-30 18:18:00.598] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:00.801] [info]  Save position: 918, 509
+[2025-10-30 18:18:01.995] [info]  Sync options
+[2025-10-30 18:18:01.996] [info]  Changing to new app size: normal
+[2025-10-30 18:18:01.996] [info]  Setting scale: 1
+[2025-10-30 18:18:01.998] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:02.199] [info]  Save position: 918, 509
+[2025-10-30 18:18:03.726] [info]  Sync options
+[2025-10-30 18:18:03.727] [info]  Changing to new app size: normal
+[2025-10-30 18:18:03.727] [info]  Setting scale: 1
+[2025-10-30 18:18:03.727] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:03.929] [info]  Save position: 918, 509
+[2025-10-30 18:18:05.226] [info]  Sync options
+[2025-10-30 18:18:05.227] [info]  Changing to new app size: normal
+[2025-10-30 18:18:05.227] [info]  Setting scale: 1
+[2025-10-30 18:18:05.229] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:05.430] [info]  Save position: 918, 509
+[2025-10-30 18:18:06.217] [info]  Sync options
+[2025-10-30 18:18:06.218] [info]  Changing to new app size: normal
+[2025-10-30 18:18:06.218] [info]  Setting scale: 1
+[2025-10-30 18:18:06.219] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:06.421] [info]  Save position: 918, 509
+[2025-10-30 18:18:09.007] [info]  Sync options
+[2025-10-30 18:18:09.007] [info]  Changing to new app size: normal
+[2025-10-30 18:18:09.008] [info]  Setting scale: 1
+[2025-10-30 18:18:09.009] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:09.211] [info]  Save position: 918, 509
+[2025-10-30 18:18:09.868] [info]  Sync options
+[2025-10-30 18:18:09.868] [info]  Changing to new app size: normal
+[2025-10-30 18:18:09.868] [info]  Setting scale: 1
+[2025-10-30 18:18:09.870] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:10.072] [info]  Save position: 918, 509
+[2025-10-30 18:18:34.357] [info]  Sync options
+[2025-10-30 18:18:34.358] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:35.474] [info]  Sync options
+[2025-10-30 18:18:35.475] [info]  Changing to new app size: normal
+[2025-10-30 18:18:35.475] [info]  Setting scale: 1
+[2025-10-30 18:18:35.475] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:18:35.677] [info]  Save position: 918, 509
+[2025-10-30 18:19:13.838] [info]  Sync options
+[2025-10-30 18:19:13.838] [info]  Changing to new app size: normal
+[2025-10-30 18:19:13.838] [info]  Setting scale: 1
+[2025-10-30 18:19:13.839] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:14.040] [info]  Save position: 918, 509
+[2025-10-30 18:19:15.644] [info]  Sync options
+[2025-10-30 18:19:15.645] [info]  Changing to new app size: normal
+[2025-10-30 18:19:15.645] [info]  Setting scale: 1
+[2025-10-30 18:19:15.645] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:15.847] [info]  Save position: 918, 509
+[2025-10-30 18:19:19.995] [info]  Sync options
+[2025-10-30 18:19:19.995] [info]  Changing to new app size: normal
+[2025-10-30 18:19:19.995] [info]  Setting scale: 1
+[2025-10-30 18:19:19.996] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:20.199] [info]  Save position: 918, 509
+[2025-10-30 18:19:21.082] [info]  Sync options
+[2025-10-30 18:19:21.082] [info]  Changing to new app size: normal
+[2025-10-30 18:19:21.082] [info]  Setting scale: 1
+[2025-10-30 18:19:21.083] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:21.285] [info]  Save position: 918, 509
+[2025-10-30 18:19:23.903] [info]  Sync options
+[2025-10-30 18:19:23.904] [info]  Changing to new app size: normal
+[2025-10-30 18:19:23.904] [info]  Setting scale: 1
+[2025-10-30 18:19:23.904] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:24.106] [info]  Save position: 918, 509
+[2025-10-30 18:19:26.206] [info]  Sync options
+[2025-10-30 18:19:26.206] [info]  Changing to new app size: normal
+[2025-10-30 18:19:26.206] [info]  Setting scale: 1
+[2025-10-30 18:19:26.206] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:26.409] [info]  Save position: 918, 509
+[2025-10-30 18:19:28.140] [info]  Sync options
+[2025-10-30 18:19:28.141] [info]  Changing to new app size: normal
+[2025-10-30 18:19:28.141] [info]  Setting scale: 1
+[2025-10-30 18:19:28.142] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:28.345] [info]  Save position: 918, 509
+[2025-10-30 18:19:28.754] [info]  Sync options
+[2025-10-30 18:19:28.754] [info]  Changing to new app size: normal
+[2025-10-30 18:19:28.754] [info]  Setting scale: 1
+[2025-10-30 18:19:28.754] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:28.955] [info]  Save position: 918, 509
+[2025-10-30 18:19:30.030] [info]  Sync options
+[2025-10-30 18:19:30.030] [info]  Changing to new app size: normal
+[2025-10-30 18:19:30.030] [info]  Setting scale: 1
+[2025-10-30 18:19:30.032] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:30.234] [info]  Save position: 918, 509
+[2025-10-30 18:19:31.977] [info]  Sync options
+[2025-10-30 18:19:31.977] [info]  Changing to new app size: normal
+[2025-10-30 18:19:31.977] [info]  Setting scale: 1
+[2025-10-30 18:19:31.979] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:32.181] [info]  Save position: 918, 509
+[2025-10-30 18:19:32.987] [info]  Sync options
+[2025-10-30 18:19:32.987] [info]  Changing to new app size: normal
+[2025-10-30 18:19:32.987] [info]  Setting scale: 1
+[2025-10-30 18:19:32.989] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:33.190] [info]  Save position: 918, 509
+[2025-10-30 18:19:35.063] [info]  Sync options
+[2025-10-30 18:19:35.064] [info]  Changing to new app size: normal
+[2025-10-30 18:19:35.064] [info]  Setting scale: 1
+[2025-10-30 18:19:35.066] [info]  Theme changed: light
+[2025-10-30 18:19:35.067] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:35.267] [info]  Save position: 918, 509
+[2025-10-30 18:19:37.423] [info]  Sync options
+[2025-10-30 18:19:37.423] [info]  Changing to new app size: normal
+[2025-10-30 18:19:37.423] [info]  Setting scale: 1
+[2025-10-30 18:19:37.424] [info]  Theme changed: system
+[2025-10-30 18:19:37.424] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:19:37.626] [info]  Save position: 918, 509
+[2025-10-30 18:20:10.036] [info]  Locked: true
+[2025-10-30 18:20:23.763] [info]  Locked: false
+[2025-10-30 18:20:27.031] [info]  Save position: 942, 509
+[2025-10-30 18:20:28.276] [info]  Save position: 918, 508
+[2025-10-30 18:21:14.667] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:21:17.784] [warn]  TypeError: windows.preferencesWindow.webContents.setWindowOpenHandler is not a function
+    at Object.openSettingsWindow (/opt/CrossOver/resources/app.asar/src/main/crossover.js:532:41)
+    at IpcMainImpl.<anonymous> (/opt/CrossOver/resources/app.asar/src/main/ipc.js:77:13)
+    at IpcMainImpl.emit (events.js:315:20)
+    at Object.<anonymous> (electron/js2c/browser_init.js:157:9051)
+    at Object.emit (events.js:315:20)
+[2025-10-30 18:21:30.332] [info]  Sync options
+[2025-10-30 18:21:30.332] [info]  Changing to new app size: normal
+[2025-10-30 18:21:30.332] [info]  Setting scale: 1
+[2025-10-30 18:21:30.334] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:30.536] [info]  Save position: 918, 509
+[2025-10-30 18:21:31.843] [info]  Sync options
+[2025-10-30 18:21:31.843] [info]  Changing to new app size: normal
+[2025-10-30 18:21:31.843] [info]  Setting scale: 1
+[2025-10-30 18:21:31.845] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:32.048] [info]  Save position: 918, 509
+[2025-10-30 18:21:32.128] [info]  Sync options
+[2025-10-30 18:21:32.128] [info]  Changing to new app size: normal
+[2025-10-30 18:21:32.128] [info]  Setting scale: 1
+[2025-10-30 18:21:32.129] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:32.330] [info]  Save position: 918, 509
+[2025-10-30 18:21:33.200] [info]  Sync options
+[2025-10-30 18:21:33.200] [info]  Changing to new app size: normal
+[2025-10-30 18:21:33.200] [info]  Setting scale: 1
+[2025-10-30 18:21:33.201] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:33.403] [info]  Save position: 918, 509
+[2025-10-30 18:21:33.855] [info]  Sync options
+[2025-10-30 18:21:33.856] [info]  Changing to new app size: normal
+[2025-10-30 18:21:33.856] [info]  Setting scale: 1
+[2025-10-30 18:21:33.856] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:34.058] [info]  Save position: 918, 509
+[2025-10-30 18:21:34.889] [info]  Sync options
+[2025-10-30 18:21:34.889] [info]  Changing to new app size: normal
+[2025-10-30 18:21:34.890] [info]  Setting scale: 1
+[2025-10-30 18:21:34.892] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:35.094] [info]  Save position: 918, 509
+[2025-10-30 18:21:38.643] [info]  Sync options
+[2025-10-30 18:21:38.643] [info]  Changing to new app size: normal
+[2025-10-30 18:21:38.643] [info]  Setting scale: 1
+[2025-10-30 18:21:38.645] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:38.847] [info]  Save position: 918, 509
+[2025-10-30 18:21:39.783] [info]  Sync options
+[2025-10-30 18:21:39.783] [info]  Changing to new app size: normal
+[2025-10-30 18:21:39.784] [info]  Setting scale: 1
+[2025-10-30 18:21:39.784] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:21:39.988] [info]  Save position: 918, 509
+[2025-10-30 18:22:03.509] [info]  Trying to create shadow window...
+[2025-10-30 18:22:03.613] [info]  Event: Ready to show
+[2025-10-30 18:22:03.614] [info]  Created shadow window: 6 [
+  {
+    setBounds: '[function] (e,...r)=>{e={...this.getBounds(),...e},t.call(this,e,...r)}',
+    _events: {
+      blur: '[function] t=>{e.emit("browser-window-blur",t,this)}',
+      focus: '[function] t=>{e.emit("browser-window-focus",t,this)}',
+      show: '[function] ()=>{const e=this.isVisible()&&!this.isMinimized();if(n!==e){n=e;const t=n?"visible":"hidden";this.webContents.emit("-window-visibility-change",t)}}',
+      hide: '[function] ()=>{const e=this.isVisible()&&!this.isMinimized();if(n!==e){n=e;const t=n?"visible":"hidden";this.webContents.emit("-window-visibility-change",t)}}',
+      minimize: '[function] ()=>{const e=this.isVisible()&&!this.isMinimized();if(n!==e){n=e;const t=n?"visible":"hidden";this.webContents.emit("-window-visibility-change",t)}}',
+      maximize: '[function] ()=>{const e=this.isVisible()&&!this.isMinimized();if(n!==e){n=e;const t=n?"visible":"hidden";this.webContents.emit("-window-visibility-change",t)}}',
+      restore: '[function] ()=>{const e=this.isVisible()&&!this.isMinimized();if(n!==e){n=e;const t=n?"visible":"hidden";this.webContents.emit("-window-visibility-change",t)}}',
+      closed: '[function] () => {\n' +
+        '\n' +
+        '\t\t\t// Dereference the window\n' +
+        '\t\t\twindows.shadowWindows.delete( win )\n' +
+        '\n' +
+        '\t\t}',
+      unresponsive: '[function] event => {\n' +
+        '\n' +
+        '\t\tlog.error( `Window crashed: ${event.sender}` )\n' +
+        '\n' +
+        '\t}'
+    },
+    _eventsCount: 9,
+    devToolsWebContents: null
+  }
+]
+[2025-10-30 18:22:03.615] [info]  Save crosshair: /opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png
+[2025-10-30 18:22:03.615] [info]  Locked: false
+[2025-10-30 18:22:08.295] [info]  Save position: 918, 508

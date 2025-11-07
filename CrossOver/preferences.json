@@ -1,0 +1,75 @@
+{
+    "crosshair": {
+        "crosshair": "/opt/CrossOver/resources/app.asar/src/static/crosshairs/Dot Simple/Red.png",
+        "color": "#442ac6",
+        "size": 33,
+        "opacity": 74,
+        "positionX": 918,
+        "positionY": 508,
+        "reticle": "off",
+        "reticleScale": 100,
+        "fillColor": "#201e1e",
+        "strokeColor": "#242222"
+    },
+    "actions": {
+        "followMouse": [],
+        "resizeOnADS": "off",
+        "ADSSize": 50,
+        "hideOnMouse": "-1",
+        "tiltEnable": [],
+        "tiltToggle": [],
+        "tiltAngle": 25,
+        "hideOnKey": "",
+        "tiltLeft": "",
+        "tiltRight": ""
+    },
+    "app": {
+        "theme": "system",
+        "appBgColor": "unset",
+        "appHighlightColor": "unset",
+        "alerts": [
+            "alerts"
+        ],
+        "notify": [
+            "notify"
+        ],
+        "updates": [
+            "updates"
+        ],
+        "sounds": [
+            "sounds"
+        ],
+        "gpu": [
+            "gpu"
+        ],
+        "startUnlocked": [
+            "startUnlocked"
+        ],
+        "boot": [],
+        "appSize": "normal"
+    },
+    "keybinds": {
+        "reset": "Control+Shift+Alt+R",
+        "lock": "Control+Shift+Alt+X",
+        "center": "Control+Shift+Alt+C",
+        "hide": "Control+Shift+Alt+H",
+        "duplicate": "Control+Shift+Alt+D",
+        "changeDisplay": "Control+Shift+Alt+M",
+        "moveUp": "Control+Shift+Alt+Up",
+        "moveDown": "Control+Shift+Alt+Down",
+        "moveLeft": "Control+Shift+Alt+Left",
+        "moveRight": "Control+Shift+Alt+Right",
+        "nextWindow": "Control+Shift+Alt+O",
+        "about": "Control+Shift+Alt+A",
+        "quit": "Control+Shift+Alt+Q"
+    },
+    "hidden": {
+        "frame": false,
+        "locked": false,
+        "showSettings": false,
+        "tilted": false,
+        "ADSed": false,
+        "ADShidden": false
+    },
+    "about": {}
+}

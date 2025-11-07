@@ -6,23 +6,26 @@ LockSidebar=true
 ShowSidebar=true
 
 [Recent Files]
-File1[$e]=$HOME/documents/ebook/1433.epub
-File10[$e]=$HOME/documents/homework/10110-林奕安-鄭南榕線上展心得.pdf
-File2[$e]=$HOME/documents/ebook/布魯特斯的心臟.epub
-File3[$e]=$HOME/documents/ck/club-10thgrader.pdf
-File4[$e]=$HOME/documents/ck/club-11thgrader.pdf
-File5[$e]=$HOME/documents/Attack on Titan - Shinzou wo Sasageyo (Intermediate Level).pdf
-File6[$e]=$HOME/documents/homework/圖書選擇與參賽作品之注意事項.pdf
-File7[$e]=$HOME/documents/homework/gaza-new.pdf
-File8[$e]=$HOME/documents/homework/rule1.pdf
-File9[$e]=$HOME/documents/homework/example.pdf
-Name1[$e]=1433.epub
-Name10[$e]=10110-林奕安-鄭南榕線上展心得.pdf
-Name2[$e]=布魯特斯的心臟.epub
-Name3[$e]=club-10thgrader.pdf
-Name4[$e]=club-11thgrader.pdf
-Name5[$e]=Attack on Titan - Shinzou wo Sasageyo (Intermediate Level).pdf
-Name6[$e]=圖書選擇與參賽作品之注意事項.pdf
-Name7[$e]=gaza-new.pdf
-Name8[$e]=rule1.pdf
-Name9[$e]=example.pdf
+File1[$e]=$HOME/documents/ai-generated-things/15歲男生六個月健身計畫.pdf
+File10[$e]=$HOME/documents/ck/轉社後社團名單.pdf
+File2[$e]=$HOME/documents/ck/club-10thgrader.pdf
+File3[$e]=$HOME/documents/ck/club-11thgrader.pdf
+File4[$e]=$HOME/documents/ck/1758070672720zYZTNyo5.pdf
+File5[$e]=$HOME/documents/ck/club-classroom.pdf
+File6[$e]=$HOME/documents/ck/114學年度暑假暨第1學期行事曆(0912).pdf
+File7[$e]=$HOME/documents/ai-generated-things/30天人生改造計畫：從手機成癮到創造者.pdf
+File8[$e]=$HOME/pictures/螢幕截圖/take-over/score.pdf
+File9[$e]=$HOME/pictures/螢幕截圖/take-over/jpg/score.pdf
+Name1[$e]=15歲男生六個月健身計畫.pdf
+Name10[$e]=轉社後社團名單.pdf
+Name2[$e]=club-10thgrader.pdf
+Name3[$e]=club-11thgrader.pdf
+Name4[$e]=1758070672720zYZTNyo5.pdf
+Name5[$e]=club-classroom.pdf
+Name6[$e]=114學年度暑假暨第1學期行事曆(0912).pdf
+Name7[$e]=30天人生改造計畫：從手機成癮到創造者.pdf
+Name8[$e]=score.pdf
+Name9[$e]=score.pdf
+
+[UiSettings]
+ColorScheme=Nobara

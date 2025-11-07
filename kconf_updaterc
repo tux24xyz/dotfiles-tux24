@@ -31,12 +31,12 @@ done=konsole_globalaccel,add-hamburgermenu-to-toolbar
 mtime=1751299414
 
 [kwin.upd]
-ctime=1756355222
+ctime=1760960177
 done=remove_deprecated_gtk4_option,kwin-6.0-reset-active-mouse-screen,kwin-6.0-delete-desktop-switching-shortcuts,kwin-6.0-remove-breeze-tabbox-default,kwin-6.1-remove-gridview-expose-shortcuts,add-hamburgermenu-to-toolbar
 mtime=1754391046
 
 [migrate-calendar-to-plugin-id.upd]
-ctime=1756355191
+ctime=1760960177
 done=kwin-6.1-remove-gridview-expose-shortcuts,migrate-calendar-plugins
 mtime=1751500800
 
@@ -46,32 +46,32 @@ done=migrate-calendar-plugins,memory-column
 mtime=1754391273
 
 [plasma6.0-remove-dpi-settings.upd]
-ctime=1756355191
+ctime=1760960177
 done=memory-column,plasma6.0-remove-dpi-settings
 mtime=1751500800
 
 [plasma6.0-remove-old-shortcuts.upd]
-ctime=1756355191
+ctime=1760960177
 done=plasma6.0-remove-dpi-settings,plasma6.0-remove-old-shortcuts
 mtime=1751500800
 
 [plasma6.3-update-clipboard-database-2-to-3.upd]
-ctime=1756355225
+ctime=1760960194
 done=plasma6.0-remove-old-shortcuts,plasma6.3-update-clipboard-database-2-to-3
 mtime=1751500800
 
 [plasma6.4-migrate-fullscreen-notifications-to-dnd.upd]
-ctime=1756355191
+ctime=1760960177
 done=plasma6.4-migrate-fullscreen-notifications-to-dnd
 mtime=1751500800
 
 [plasmashell-6.0-keep-custom-position-of-panels.upd]
-ctime=1756355191
+ctime=1760960177
 done=plasma6.3-update-clipboard-database-2-to-3,plasmashell-6.0-keep-custom-position-of-panels,plasma6.4-migrate-fullscreen-notifications-to-dnd
 mtime=1751500800
 
 [plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels.upd]
-ctime=1756355191
+ctime=1760960177
 done=plasmashell-6.0-keep-custom-position-of-panels,plasmashell-6.0-keep-default-floating-setting-for-plasma-5-panels
 mtime=1751500800
 
