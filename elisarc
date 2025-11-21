@@ -1,5 +1,5 @@
 [ElisaFileIndexer]
-RootPath[$e]=$HOME/音樂
+RootPath[$e]=$HOME/music
 
 [PlayerSettings]
 UseFavoriteStyleRatings=true

@@ -10,26 +10,26 @@ UrlNavigatorIsEditable=true
 MenuBar=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/downloads/JuiceWRLD 9 9 9 EP · 2017/cover.jpeg
-File10[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251104_231604.png
-File2[$e]=$HOME/downloads/JuiceWRLD 9 9 9 EP · 2017/5892ca63-5f82-401a-ae14-5cf458003190.jpg
-File3[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251001_223405.png
-File4[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251001_223423.png
-File5[$e]=$HOME/pictures/coder-shortcodes2.png
-File6[$e]=$HOME/pictures/coder-shortcodes.png
-File7[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251104_231326.png
-File8[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251104_231338.png
-File9[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251104_231513.png
-Name1[$e]=cover.jpeg
-Name10[$e]=螢幕截圖_20251104_231604.png
-Name2[$e]=5892ca63-5f82-401a-ae14-5cf458003190.jpg
-Name3[$e]=螢幕截圖_20251001_223405.png
-Name4[$e]=螢幕截圖_20251001_223423.png
-Name5[$e]=coder-shortcodes2.png
-Name6[$e]=coder-shortcodes.png
-Name7[$e]=螢幕截圖_20251104_231326.png
-Name8[$e]=螢幕截圖_20251104_231338.png
-Name9[$e]=螢幕截圖_20251104_231513.png
+File1[$e]=$HOME/pictures/螢幕截圖/螢幕截圖_20251104_231604.png
+File10[$e]=/home/sec/bad-music/ASMR/RJ01255347/正式登錄/圖像.jpg
+File2[$e]=$HOME/downloads/IMG_2876.JPG
+File3[$e]=$HOME/downloads/IMG_2877.JPG
+File4[$e]=$HOME/downloads/IMG_2878.JPG
+File5[$e]=$HOME/downloads/IMG_2874.JPG
+File6[$e]=$HOME/downloads/IMG_2875.JPG
+File7[$e]=/home/sec/bad-music/RJ01138582/高畫質插圖/封面圖.png
+File8[$e]=/home/sec/bad-music/ASMR/É╗òiö┼/âKâ`âIâiê╧ê⌡âCâëâXâg.jpg
+File9[$e]=/home/sec/bad-music/ASMR/è«É¼ë╣î╣/âCâëâXâg/ô┴ôTâCâëâXâg.jpg
+Name1[$e]=螢幕截圖_20251104_231604.png
+Name10[$e]=圖像.jpg
+Name2[$e]=IMG_2876.JPG
+Name3[$e]=IMG_2877.JPG
+Name4[$e]=IMG_2878.JPG
+Name5[$e]=IMG_2874.JPG
+Name6[$e]=IMG_2875.JPG
+Name7[$e]=封面圖.png
+Name8[$e]=âKâ`âIâiê╧ê⌡âCâëâXâg.jpg
+Name9[$e]=ô┴ôTâCâëâXâg.jpg
 
 [SideBar]
 InformationSplitterSizes=218,257

@@ -61,8 +61,8 @@ plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][36][Configuration]
 PreloadWeight=100
-popupHeight=855
-popupWidth=1071
+popupHeight=891
+popupWidth=1119
 
 [Containments][2][Applets][36][Configuration][ConfigDialog]
 DialogHeight=540
@@ -91,8 +91,8 @@ immutability=1
 lastScreen=0
 location=4
 plugin=org.kde.plasma.systemtray
-popupHeight=789
-popupWidth=908
+popupHeight=825
+popupWidth=956
 wallpaperplugin=org.kde.image
 
 [Containments][2][Applets][8][Applets][10]
@@ -162,6 +162,7 @@ plugin=org.kde.plasma.volume
 PreloadWeight=100
 
 [Containments][2][Applets][8][Applets][21][Configuration][General]
+currentTab=streams
 migrated=true
 
 [Containments][2][Applets][8][Applets][24]
